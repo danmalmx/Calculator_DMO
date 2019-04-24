@@ -1,0 +1,7 @@
+C:\Users\Lexicon\source\repos\Calculator_DMO\Calculator_DMO\bin\Debug\Calculator_DMO.exe.config
+C:\Users\Lexicon\source\repos\Calculator_DMO\Calculator_DMO\bin\Debug\Calculator_DMO.exe
+C:\Users\Lexicon\source\repos\Calculator_DMO\Calculator_DMO\bin\Debug\Calculator_DMO.pdb
+C:\Users\Lexicon\source\repos\Calculator_DMO\Calculator_DMO\obj\Debug\Calculator_DMO.csprojAssemblyReference.cache
+C:\Users\Lexicon\source\repos\Calculator_DMO\Calculator_DMO\obj\Debug\Calculator_DMO.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\source\repos\Calculator_DMO\Calculator_DMO\obj\Debug\Calculator_DMO.exe
+C:\Users\Lexicon\source\repos\Calculator_DMO\Calculator_DMO\obj\Debug\Calculator_DMO.pdb
